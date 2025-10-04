@@ -1,5 +1,7 @@
 data/
 
+*.csv
+
 *.csv.zip
 submission.csv
 
